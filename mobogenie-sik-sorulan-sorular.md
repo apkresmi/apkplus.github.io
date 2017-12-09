@@ -4,6 +4,7 @@ title: Mobogenie Sık Sorulan Sorular
 permalink: /mobogenie-sik-sorulan-sorular
 ---
 
+Mobogenie Apk indirmeden önce veya indirdikten sonra birçok kullanıcımızın sorduğu genel sorular var. Türkçe sitemizin de açılmasıyla bu sorular bir hayli arttı. Biz de en sık sorulan soruları sizler için burada cevaplandırdık.
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- KingBaglanti -->
 <ins class="adsbygoogle"
