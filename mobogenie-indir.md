@@ -45,4 +45,4 @@ Boyut: 10,41 MB<br />
 <li>Kurulum otomatik olarak tamamlanacak ve Mobogenie kullanımınıza hazır hale gelecektir.</li></ul>
 
 <h2>Mobogenie Apk Artık Türkçe!</h2>
-Türkçe sitemizin de yayına girmesiyle birlikte bundan sonra uygulamamızın, yeni Türkçe arayüzüyle karşınızda olacağının müjdesini vermek istiyoruz. Çeviri işlemi hala devam ettiği için nadiren de olsa ufak tefek sorunlar çıkabiliyor. İletişim sayfamızdan bunları bize bildirirseniz çok seviniriz. Ayrıca Türkçe haricinde 12'den fazla dili desteklediğimizi de belirtmek isteriz.
+Sitemizin de yayına başlamasıyla birlikte bundan sonra uygulamamızın, yeni Türkçe arayüzüyle karşınızda olacağını belirtmek isteriz!
